@@ -1,94 +1,27 @@
-# Hi 👋, I'm Genius74o
+<h1 align="center">Hi 👋, I'm Genius74o</h1>
+<h3 align="center">I love to code</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=genius740code&label=Profile%20views&color=0e75b6&style=flat)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genius740code&label=Profile%20views&color=0e75b6&style=flat" alt="genius740code" /> </p>
 
-- 🔭 I’m currently working on **C++ Chessbot**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Genius740Code)
-- 📝 I regularly write articles on  
-- 💬 Ask me about **Bot development, crypto and AI.**
+- 🔭 I’m currently working on [C++ Chessbot](https://github.com/Genius740Code/Phosphor-Chess-bot)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Genius740Code](https://github.com/Genius740Code)
+
+- 💬 Ask me about **Bot development, crypto and ai.**
+
 - 📫 How to reach me **example@gmail.com**
 
-### Connect with me:
+- ⚡ Fun fact **I do everything I can to make money**
 
-### Languages and Tools:
-[Blender](https://www.blender.org/)  
-![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[Chart.js](https://www.chartjs.org)  
-![Chart.js](https://www.chartjs.org/media/logo-title.svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-[C++](https://www.w3schools.com/cpp/)  
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genius740code&show_icons=true&locale=en&layout=compact" alt="genius740code" /></p>
 
-[C#](https://www.w3schools.com/cs/)  
-![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genius740code&show_icons=true&locale=en" alt="genius740code" /></p>
 
-[CSS3](https://www.w3schools.com/css/)  
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-
-[Express.js](https://expressjs.com)  
-![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-
-[Git](https://git-scm.com/)  
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-
-[HTML5](https://www.w3.org/html/)  
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-
-[Illustrator](https://www.adobe.com/in/products/illustrator.html)  
-![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)
-
-[Jasmine](https://jasmine.github.io/)  
-![Jasmine](https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg)
-
-[Java](https://www.java.com)  
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-
-[MongoDB](https://www.mongodb.com/)  
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-
-[SQL Server](https://www.microsoft.com/en-us/sql-server)  
-![SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)
-
-[MySQL](https://www.mysql.com/)  
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-
-[Next.js](https://nextjs.org/)  
-![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)
-
-[Node.js](https://nodejs.org)  
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-
-[Photoshop](https://www.photoshop.com/en)  
-![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)
-
-[Puppeteer](https://github.com/puppeteer/puppeteer)  
-![Puppeteer](https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg)
-
-[Python](https://www.python.org)  
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-
-[React](https://reactjs.org/)  
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-
-[SQLite](https://www.sqlite.org/)  
-![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)
-
-[Tailwind CSS](https://tailwindcss.com/)  
-![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-
-[TypeScript](https://www.typescriptlang.org/)  
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
-
-[Zapier](https://zapier.com)  
-![Zapier](https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg)
-
-### Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=genius740code&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genius740code&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=genius740code)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genius740code&" alt="genius740code" /></p>
